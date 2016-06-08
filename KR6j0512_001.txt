@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:58.219628
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 那羅延天共阿修羅王鬪戰法
 #+PROPERTY: CBETA_ID T21n1281
 #+PROPERTY: ID KR6j0512
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1281
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0512_T_000-0342b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0512_T_001-0342b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1281¶
-
- 那羅延天共阿修羅王鬪戰法¶
+No. 1281¶
+那羅延天共阿修羅王鬪戰法¶
 ¶
 寶思惟三藏譯¶
 
