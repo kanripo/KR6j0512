@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:58.219628
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 那羅延天共阿修羅王鬪戰法
 #+PROPERTY: CBETA_ID T21n1281
 #+PROPERTY: ID KR6j0512
